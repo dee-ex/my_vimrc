@@ -75,9 +75,9 @@ set shiftwidth=2
 " On pressing tab, insert 4 spaces
 set expandtab
 
-" nCbRBhbffRREsCVq5q
-" 1Uy51#nquqDUUnuyM5
-" KigcqEmVPER59m4
+" 6e4362524268626666525245734356713571
+" 3155793531236e7175714455556e75794d35
+" 4b69676371456d5650455235396d34
 
 " Specify a directory for plugins
 " - For Neovim: stdpath('data') . '/plugged'
